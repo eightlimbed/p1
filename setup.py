@@ -7,4 +7,5 @@ setup(
     description='A sample Python project',
     url='https://github.com/eightlimbed/p1',
     packages=['p1'],
+    install_requires=['petlib'],
 )
