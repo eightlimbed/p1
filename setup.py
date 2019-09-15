@@ -14,5 +14,5 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/eightlimbed/p1',
     packages=find_packages,
-    install_requires=[], 
+    #install_requires=[], 
 )
